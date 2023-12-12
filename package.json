@@ -1,0 +1,13 @@
+{
+  "name": "mapdownload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "commander": "^9.4.0",
+    "graceful-fs": "^4.2.11",
+    "mkdirp": "^3.0.1",
+    "request": "^2.88.0"
+  }
+}
