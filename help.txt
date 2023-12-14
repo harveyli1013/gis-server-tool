@@ -1,2 +1,2 @@
 node --max-old-space-size=65536 index.js dem ./dt-webp 8 16 120.5 32.384 122.287 33.38 100 "https://api.mapbox.com/v4/mapbox.satellite" "?sku=101RaUZnjCKX9&access_token=pk.eyJ1IjoiaGFydmV5bGkiLCJhIjoiY2t6ZHN4dXp5MDgwbjJ1cDBscDliNXg2dyJ9.IkUdZE5R1bvLRtGmvtvyJQ"
-node --max-old-space-size=65536 index.js dem ./dt-webp 5 8 85 0 160 90 100 "https://api.mapbox.com/v4/mapbox.satellite" "?sku=101RaUZnjCKX9&access_token=pk.eyJ1IjoiaGFydmV5bGkiLCJhIjoiY2t6ZHN4dXp5MDgwbjJ1cDBscDliNXg2dyJ9.IkUdZE5R1bvLRtGmvtvyJQ"
+node --max-old-space-size=65536 index.js dem ./dt-webp 6 10 85 0 160 90 100 "https://api.mapbox.com/v4/mapbox.satellite" "?sku=101RaUZnjCKX9&access_token=sk.eyJ1IjoiaGFydmV5bGkiLCJhIjoiY2xxMXhkdWI4MGQwZTJxcDFvdHFxMHYwYSJ9.Ul3-itP5JHwUO5q2DZURIA"
